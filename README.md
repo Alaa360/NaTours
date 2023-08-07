@@ -25,7 +25,7 @@ ndb server.js
 ```
 
 ## Usage
-This is web-app for managing tours with its prices, rating and duration, besides the users and their reviews
+This is web-app for managing tours with their prices, ratings and durations, besides the users and their reviews on them.
 
 ### N.B.
  This project is still under construction
