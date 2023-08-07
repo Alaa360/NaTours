@@ -25,10 +25,7 @@ ndb server.js
 ```
 
 ## Usage
-
-```javascript
-console.log("This is web-app for managing tours with its prices, rating and duration, besides the users and their reviews")
-```
+This is web-app for managing tours with its prices, rating and duration, besides the users and their reviews
 
 ### N.B.
  This project is still under construction
