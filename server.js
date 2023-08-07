@@ -22,7 +22,7 @@ const server = app.listen(port, () => {
   console.log(`I'm Listening to everything on port ${port}.....`);
 });
 
-console.log(x)
+//console.log(x)
 
 process.on('unhandledRejection', (err) => {
   console.log(err.name, err.message);
